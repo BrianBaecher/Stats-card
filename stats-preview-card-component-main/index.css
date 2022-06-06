@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+/* font-family: 'Inter', sans-serif; */
+/* font-family: 'Lexend Deca', sans-serif; */
+
+body {
+    background-color: hsl(233, 47%, 7%);
+}
+
+.card-body {
+  font-family: "Inter", sans-serif;
+  color: white;
+  display: flex;
+}
+
+.stats {
+  font-family: "Lexend Deca", sans-serif;
+}
